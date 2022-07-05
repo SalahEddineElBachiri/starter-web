@@ -3,15 +3,15 @@
 This repository is for showing how Git and GitHub work
 
 
-## introduction
+## Introduction
 
-
+Introduction
 
 ## Purpose
 
 Sample website with plenty of files for demos
 
-## Deployement
+## Deployment
 
-
+Deployment
 ## How to contribute
