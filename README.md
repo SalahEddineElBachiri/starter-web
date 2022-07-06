@@ -13,5 +13,7 @@ This example is to show different parts of the Git repository and various comman
 
 ## Deployment
 
-Deployment
+Deployment for the projects was done at the end of the 2020 year 
 ## How to contribute
+
+To contribute in this web project, contact us at that email : salah@gmail.com
